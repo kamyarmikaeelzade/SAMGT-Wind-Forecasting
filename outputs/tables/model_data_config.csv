@@ -1,0 +1,12 @@
+parameter,value
+target,wind_speed
+forecast_horizon_hours,1
+maximum_historical_lag_hours,168
+training_start_year,2005
+training_end_year,2017
+validation_start_year,2018
+validation_end_year,2019
+test_year,2020
+number_of_features,7
+scaler_type,StandardScaler
+target_scaled,False

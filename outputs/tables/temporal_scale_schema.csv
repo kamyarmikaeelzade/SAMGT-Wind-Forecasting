@@ -1,0 +1,12 @@
+temporal_scale,branch_order,lag_hours,u_variable,v_variable
+short,1,0,u10_history,v10_history
+short,2,1,u10_history,v10_history
+short,3,2,u10_history,v10_history
+short,4,3,u10_history,v10_history
+short,5,6,u10_history,v10_history
+diurnal,1,12,u10_history,v10_history
+diurnal,2,24,u10_history,v10_history
+diurnal,3,48,u10_history,v10_history
+synoptic,1,72,u10_history,v10_history
+synoptic,2,120,u10_history,v10_history
+synoptic,3,168,u10_history,v10_history

@@ -1,0 +1,2 @@
+target,forecast_horizon_hours,maximum_historical_lag_hours
+wind_speed,1,168

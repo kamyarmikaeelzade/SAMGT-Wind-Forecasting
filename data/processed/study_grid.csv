@@ -1,0 +1,513 @@
+study_id,grid_id,latitude,longitude,basin
+0,594,22.75,59.5,Gulf of Oman
+1,595,22.75,59.75,Gulf of Oman
+2,578,23.0,59.25,Gulf of Oman
+3,579,23.0,59.5,Gulf of Oman
+4,580,23.0,59.75,Gulf of Oman
+5,581,23.0,60.0,Gulf of Oman
+6,561,23.25,59.0,Gulf of Oman
+7,562,23.25,59.25,Gulf of Oman
+8,563,23.25,59.5,Gulf of Oman
+9,564,23.25,59.75,Gulf of Oman
+10,565,23.25,60.0,Gulf of Oman
+11,566,23.25,60.25,Gulf of Oman
+12,544,23.5,59.0,Gulf of Oman
+13,545,23.5,59.25,Gulf of Oman
+14,546,23.5,59.5,Gulf of Oman
+15,547,23.5,59.75,Gulf of Oman
+16,548,23.5,60.0,Gulf of Oman
+17,549,23.5,60.25,Gulf of Oman
+18,550,23.5,60.5,Gulf of Oman
+19,523,23.75,58.0,Gulf of Oman
+20,524,23.75,58.25,Gulf of Oman
+21,525,23.75,58.5,Gulf of Oman
+22,526,23.75,58.75,Gulf of Oman
+23,527,23.75,59.0,Gulf of Oman
+24,528,23.75,59.25,Gulf of Oman
+25,529,23.75,59.5,Gulf of Oman
+26,530,23.75,59.75,Gulf of Oman
+27,531,23.75,60.0,Gulf of Oman
+28,532,23.75,60.25,Gulf of Oman
+29,533,23.75,60.5,Gulf of Oman
+30,499,24.0,57.25,Gulf of Oman
+31,500,24.0,57.5,Gulf of Oman
+32,501,24.0,57.75,Gulf of Oman
+33,502,24.0,58.0,Gulf of Oman
+34,503,24.0,58.25,Gulf of Oman
+35,504,24.0,58.5,Gulf of Oman
+36,505,24.0,58.75,Gulf of Oman
+37,506,24.0,59.0,Gulf of Oman
+38,507,24.0,59.25,Gulf of Oman
+39,508,24.0,59.5,Gulf of Oman
+40,509,24.0,59.75,Gulf of Oman
+41,510,24.0,60.0,Gulf of Oman
+42,511,24.0,60.25,Gulf of Oman
+43,512,24.0,60.5,Gulf of Oman
+44,513,24.0,60.75,Gulf of Oman
+45,472,24.25,57.0,Gulf of Oman
+46,473,24.25,57.25,Gulf of Oman
+47,474,24.25,57.5,Gulf of Oman
+48,475,24.25,57.75,Gulf of Oman
+49,476,24.25,58.0,Gulf of Oman
+50,477,24.25,58.25,Gulf of Oman
+51,478,24.25,58.5,Gulf of Oman
+52,479,24.25,58.75,Gulf of Oman
+53,480,24.25,59.0,Gulf of Oman
+54,481,24.25,59.25,Gulf of Oman
+55,482,24.25,59.5,Gulf of Oman
+56,483,24.25,59.75,Gulf of Oman
+57,484,24.25,60.0,Gulf of Oman
+58,485,24.25,60.25,Gulf of Oman
+59,486,24.25,60.5,Gulf of Oman
+60,487,24.25,60.75,Gulf of Oman
+61,488,24.25,61.0,Gulf of Oman
+62,436,24.5,56.75,Gulf of Oman
+63,437,24.5,57.0,Gulf of Oman
+64,438,24.5,57.25,Gulf of Oman
+65,439,24.5,57.5,Gulf of Oman
+66,440,24.5,57.75,Gulf of Oman
+67,441,24.5,58.0,Gulf of Oman
+68,442,24.5,58.25,Gulf of Oman
+69,443,24.5,58.5,Gulf of Oman
+70,444,24.5,58.75,Gulf of Oman
+71,445,24.5,59.0,Gulf of Oman
+72,446,24.5,59.25,Gulf of Oman
+73,447,24.5,59.5,Gulf of Oman
+74,448,24.5,59.75,Gulf of Oman
+75,449,24.5,60.0,Gulf of Oman
+76,450,24.5,60.25,Gulf of Oman
+77,451,24.5,60.5,Gulf of Oman
+78,452,24.5,60.75,Gulf of Oman
+79,453,24.5,61.0,Gulf of Oman
+80,454,24.5,61.25,Gulf of Oman
+81,397,24.75,56.5,Gulf of Oman
+82,398,24.75,56.75,Gulf of Oman
+83,399,24.75,57.0,Gulf of Oman
+84,400,24.75,57.25,Gulf of Oman
+85,401,24.75,57.5,Gulf of Oman
+86,402,24.75,57.75,Gulf of Oman
+87,403,24.75,58.0,Gulf of Oman
+88,404,24.75,58.25,Gulf of Oman
+89,405,24.75,58.5,Gulf of Oman
+90,406,24.75,58.75,Gulf of Oman
+91,407,24.75,59.0,Gulf of Oman
+92,408,24.75,59.25,Gulf of Oman
+93,409,24.75,59.5,Gulf of Oman
+94,410,24.75,59.75,Gulf of Oman
+95,411,24.75,60.0,Gulf of Oman
+96,412,24.75,60.25,Gulf of Oman
+97,413,24.75,60.5,Gulf of Oman
+98,414,24.75,60.75,Gulf of Oman
+99,415,24.75,61.0,Gulf of Oman
+100,416,24.75,61.25,Gulf of Oman
+101,417,24.75,61.5,Gulf of Oman
+102,357,25.0,56.5,Gulf of Oman
+103,358,25.0,56.75,Gulf of Oman
+104,359,25.0,57.0,Gulf of Oman
+105,360,25.0,57.25,Gulf of Oman
+106,361,25.0,57.5,Gulf of Oman
+107,362,25.0,57.75,Gulf of Oman
+108,363,25.0,58.0,Gulf of Oman
+109,364,25.0,58.25,Gulf of Oman
+110,365,25.0,58.5,Gulf of Oman
+111,366,25.0,58.75,Gulf of Oman
+112,367,25.0,59.0,Gulf of Oman
+113,368,25.0,59.25,Gulf of Oman
+114,369,25.0,59.5,Gulf of Oman
+115,370,25.0,59.75,Gulf of Oman
+116,371,25.0,60.0,Gulf of Oman
+117,372,25.0,60.25,Gulf of Oman
+118,373,25.0,60.5,Gulf of Oman
+119,374,25.0,60.75,Gulf of Oman
+120,375,25.0,61.0,Gulf of Oman
+121,376,25.0,61.25,Gulf of Oman
+122,377,25.0,61.5,Gulf of Oman
+123,322,25.25,56.5,Gulf of Oman
+124,323,25.25,56.75,Gulf of Oman
+125,324,25.25,57.0,Gulf of Oman
+126,325,25.25,57.25,Gulf of Oman
+127,326,25.25,57.5,Gulf of Oman
+128,327,25.25,57.75,Gulf of Oman
+129,328,25.25,58.0,Gulf of Oman
+130,329,25.25,58.25,Gulf of Oman
+131,330,25.25,58.5,Gulf of Oman
+132,331,25.25,58.75,Gulf of Oman
+133,332,25.25,59.0,Gulf of Oman
+134,333,25.25,59.25,Gulf of Oman
+135,334,25.25,59.5,Gulf of Oman
+136,335,25.25,59.75,Gulf of Oman
+137,336,25.25,60.0,Gulf of Oman
+138,337,25.25,60.25,Gulf of Oman
+139,338,25.25,60.5,Gulf of Oman
+140,339,25.25,60.75,Gulf of Oman
+141,296,25.5,56.5,Gulf of Oman
+142,297,25.5,56.75,Gulf of Oman
+143,298,25.5,57.0,Gulf of Oman
+144,299,25.5,57.25,Gulf of Oman
+145,300,25.5,57.5,Gulf of Oman
+146,301,25.5,57.75,Gulf of Oman
+147,302,25.5,58.0,Gulf of Oman
+148,303,25.5,58.25,Gulf of Oman
+149,304,25.5,58.5,Gulf of Oman
+150,305,25.5,58.75,Gulf of Oman
+151,273,25.75,56.5,Gulf of Oman
+152,274,25.75,56.75,Gulf of Oman
+153,275,25.75,57.0,Gulf of Oman
+154,276,25.75,57.25,Gulf of Oman
+155,497,24.0,52.0,Persian Gulf
+156,498,24.0,52.25,Persian Gulf
+157,462,24.25,52.0,Persian Gulf
+158,463,24.25,52.25,Persian Gulf
+159,464,24.25,52.5,Persian Gulf
+160,465,24.25,52.75,Persian Gulf
+161,466,24.25,53.0,Persian Gulf
+162,467,24.25,53.25,Persian Gulf
+163,468,24.25,53.5,Persian Gulf
+164,469,24.25,53.75,Persian Gulf
+165,470,24.25,54.0,Persian Gulf
+166,424,24.5,51.5,Persian Gulf
+167,425,24.5,51.75,Persian Gulf
+168,426,24.5,52.0,Persian Gulf
+169,427,24.5,52.25,Persian Gulf
+170,428,24.5,52.5,Persian Gulf
+171,429,24.5,52.75,Persian Gulf
+172,430,24.5,53.0,Persian Gulf
+173,431,24.5,53.25,Persian Gulf
+174,432,24.5,53.5,Persian Gulf
+175,433,24.5,53.75,Persian Gulf
+176,434,24.5,54.0,Persian Gulf
+177,435,24.5,54.25,Persian Gulf
+178,384,24.75,51.5,Persian Gulf
+179,385,24.75,51.75,Persian Gulf
+180,386,24.75,52.0,Persian Gulf
+181,387,24.75,52.25,Persian Gulf
+182,388,24.75,52.5,Persian Gulf
+183,389,24.75,52.75,Persian Gulf
+184,390,24.75,53.0,Persian Gulf
+185,391,24.75,53.25,Persian Gulf
+186,392,24.75,53.5,Persian Gulf
+187,393,24.75,53.75,Persian Gulf
+188,394,24.75,54.0,Persian Gulf
+189,395,24.75,54.25,Persian Gulf
+190,396,24.75,54.5,Persian Gulf
+191,342,25.0,50.75,Persian Gulf
+192,343,25.0,51.75,Persian Gulf
+193,344,25.0,52.0,Persian Gulf
+194,345,25.0,52.25,Persian Gulf
+195,346,25.0,52.5,Persian Gulf
+196,347,25.0,52.75,Persian Gulf
+197,348,25.0,53.0,Persian Gulf
+198,349,25.0,53.25,Persian Gulf
+199,350,25.0,53.5,Persian Gulf
+200,351,25.0,53.75,Persian Gulf
+201,352,25.0,54.0,Persian Gulf
+202,353,25.0,54.25,Persian Gulf
+203,354,25.0,54.5,Persian Gulf
+204,355,25.0,54.75,Persian Gulf
+205,356,25.0,55.0,Persian Gulf
+206,306,25.25,50.75,Persian Gulf
+207,307,25.25,51.75,Persian Gulf
+208,308,25.25,52.0,Persian Gulf
+209,309,25.25,52.25,Persian Gulf
+210,310,25.25,52.5,Persian Gulf
+211,311,25.25,52.75,Persian Gulf
+212,312,25.25,53.0,Persian Gulf
+213,313,25.25,53.25,Persian Gulf
+214,314,25.25,53.5,Persian Gulf
+215,315,25.25,53.75,Persian Gulf
+216,316,25.25,54.0,Persian Gulf
+217,317,25.25,54.25,Persian Gulf
+218,318,25.25,54.5,Persian Gulf
+219,319,25.25,54.75,Persian Gulf
+220,320,25.25,55.0,Persian Gulf
+221,321,25.25,55.25,Persian Gulf
+222,277,25.5,50.5,Persian Gulf
+223,278,25.5,50.75,Persian Gulf
+224,279,25.5,51.5,Persian Gulf
+225,280,25.5,51.75,Persian Gulf
+226,281,25.5,52.0,Persian Gulf
+227,282,25.5,52.25,Persian Gulf
+228,283,25.5,52.5,Persian Gulf
+229,284,25.5,52.75,Persian Gulf
+230,285,25.5,53.0,Persian Gulf
+231,286,25.5,53.25,Persian Gulf
+232,287,25.5,53.5,Persian Gulf
+233,288,25.5,53.75,Persian Gulf
+234,289,25.5,54.0,Persian Gulf
+235,290,25.5,54.25,Persian Gulf
+236,291,25.5,54.5,Persian Gulf
+237,292,25.5,54.75,Persian Gulf
+238,293,25.5,55.0,Persian Gulf
+239,294,25.5,55.25,Persian Gulf
+240,295,25.5,55.5,Persian Gulf
+241,253,25.75,50.25,Persian Gulf
+242,254,25.75,50.5,Persian Gulf
+243,255,25.75,50.75,Persian Gulf
+244,256,25.75,51.75,Persian Gulf
+245,257,25.75,52.0,Persian Gulf
+246,258,25.75,52.25,Persian Gulf
+247,259,25.75,52.5,Persian Gulf
+248,260,25.75,52.75,Persian Gulf
+249,261,25.75,53.0,Persian Gulf
+250,262,25.75,53.25,Persian Gulf
+251,263,25.75,53.5,Persian Gulf
+252,264,25.75,53.75,Persian Gulf
+253,265,25.75,54.0,Persian Gulf
+254,266,25.75,54.25,Persian Gulf
+255,267,25.75,54.5,Persian Gulf
+256,268,25.75,54.75,Persian Gulf
+257,269,25.75,55.0,Persian Gulf
+258,270,25.75,55.25,Persian Gulf
+259,271,25.75,55.5,Persian Gulf
+260,272,25.75,55.75,Persian Gulf
+261,227,26.0,50.0,Persian Gulf
+262,228,26.0,50.25,Persian Gulf
+263,229,26.0,50.75,Persian Gulf
+264,230,26.0,51.0,Persian Gulf
+265,231,26.0,51.5,Persian Gulf
+266,232,26.0,51.75,Persian Gulf
+267,233,26.0,52.0,Persian Gulf
+268,234,26.0,52.25,Persian Gulf
+269,235,26.0,52.5,Persian Gulf
+270,236,26.0,52.75,Persian Gulf
+271,237,26.0,53.0,Persian Gulf
+272,238,26.0,53.25,Persian Gulf
+273,239,26.0,53.5,Persian Gulf
+274,240,26.0,53.75,Persian Gulf
+275,241,26.0,54.0,Persian Gulf
+276,242,26.0,54.25,Persian Gulf
+277,243,26.0,54.5,Persian Gulf
+278,244,26.0,54.75,Persian Gulf
+279,245,26.0,55.0,Persian Gulf
+280,246,26.0,55.25,Persian Gulf
+281,247,26.0,55.5,Persian Gulf
+282,248,26.0,55.75,Persian Gulf
+283,249,26.0,56.0,Persian Gulf
+284,250,26.0,56.5,Persian Gulf
+285,251,26.0,56.75,Persian Gulf
+286,252,26.0,57.0,Persian Gulf
+287,199,26.25,50.25,Persian Gulf
+288,200,26.25,50.5,Persian Gulf
+289,201,26.25,50.75,Persian Gulf
+290,202,26.25,51.0,Persian Gulf
+291,203,26.25,51.25,Persian Gulf
+292,204,26.25,51.5,Persian Gulf
+293,205,26.25,51.75,Persian Gulf
+294,206,26.25,52.0,Persian Gulf
+295,207,26.25,52.25,Persian Gulf
+296,208,26.25,52.5,Persian Gulf
+297,209,26.25,52.75,Persian Gulf
+298,210,26.25,53.0,Persian Gulf
+299,211,26.25,53.25,Persian Gulf
+300,212,26.25,53.5,Persian Gulf
+301,213,26.25,53.75,Persian Gulf
+302,214,26.25,54.0,Persian Gulf
+303,215,26.25,54.25,Persian Gulf
+304,216,26.25,54.5,Persian Gulf
+305,217,26.25,54.75,Persian Gulf
+306,218,26.25,55.0,Persian Gulf
+307,219,26.25,55.25,Persian Gulf
+308,220,26.25,55.5,Persian Gulf
+309,221,26.25,55.75,Persian Gulf
+310,222,26.25,56.0,Persian Gulf
+311,223,26.25,56.25,Persian Gulf
+312,224,26.25,56.5,Persian Gulf
+313,225,26.25,56.75,Persian Gulf
+314,226,26.25,57.0,Persian Gulf
+315,172,26.5,50.25,Persian Gulf
+316,173,26.5,50.5,Persian Gulf
+317,174,26.5,50.75,Persian Gulf
+318,175,26.5,51.0,Persian Gulf
+319,176,26.5,51.25,Persian Gulf
+320,177,26.5,51.5,Persian Gulf
+321,178,26.5,51.75,Persian Gulf
+322,179,26.5,52.0,Persian Gulf
+323,180,26.5,52.25,Persian Gulf
+324,181,26.5,52.5,Persian Gulf
+325,182,26.5,52.75,Persian Gulf
+326,183,26.5,53.0,Persian Gulf
+327,184,26.5,53.25,Persian Gulf
+328,185,26.5,53.5,Persian Gulf
+329,186,26.5,53.75,Persian Gulf
+330,187,26.5,54.25,Persian Gulf
+331,188,26.5,54.5,Persian Gulf
+332,189,26.5,54.75,Persian Gulf
+333,190,26.5,55.0,Persian Gulf
+334,191,26.5,55.25,Persian Gulf
+335,192,26.5,55.5,Persian Gulf
+336,193,26.5,55.75,Persian Gulf
+337,194,26.5,56.0,Persian Gulf
+338,195,26.5,56.25,Persian Gulf
+339,196,26.5,56.5,Persian Gulf
+340,197,26.5,56.75,Persian Gulf
+341,198,26.5,57.0,Persian Gulf
+342,152,26.75,50.25,Persian Gulf
+343,153,26.75,50.5,Persian Gulf
+344,154,26.75,50.75,Persian Gulf
+345,155,26.75,51.0,Persian Gulf
+346,156,26.75,51.25,Persian Gulf
+347,157,26.75,51.5,Persian Gulf
+348,158,26.75,51.75,Persian Gulf
+349,159,26.75,52.0,Persian Gulf
+350,160,26.75,52.25,Persian Gulf
+351,161,26.75,52.5,Persian Gulf
+352,162,26.75,52.75,Persian Gulf
+353,163,26.75,53.0,Persian Gulf
+354,164,26.75,53.25,Persian Gulf
+355,165,26.75,53.5,Persian Gulf
+356,166,26.75,55.25,Persian Gulf
+357,167,26.75,55.5,Persian Gulf
+358,168,26.75,56.25,Persian Gulf
+359,169,26.75,56.5,Persian Gulf
+360,170,26.75,56.75,Persian Gulf
+361,171,26.75,57.0,Persian Gulf
+362,133,27.0,49.75,Persian Gulf
+363,134,27.0,50.0,Persian Gulf
+364,135,27.0,50.25,Persian Gulf
+365,136,27.0,50.5,Persian Gulf
+366,137,27.0,50.75,Persian Gulf
+367,138,27.0,51.0,Persian Gulf
+368,139,27.0,51.25,Persian Gulf
+369,140,27.0,51.5,Persian Gulf
+370,141,27.0,51.75,Persian Gulf
+371,142,27.0,52.0,Persian Gulf
+372,143,27.0,52.25,Persian Gulf
+373,144,27.0,52.5,Persian Gulf
+374,145,27.0,52.75,Persian Gulf
+375,146,27.0,53.0,Persian Gulf
+376,147,27.0,53.25,Persian Gulf
+377,148,27.0,56.0,Persian Gulf
+378,149,27.0,56.25,Persian Gulf
+379,150,27.0,56.5,Persian Gulf
+380,151,27.0,56.75,Persian Gulf
+381,120,27.25,49.75,Persian Gulf
+382,121,27.25,50.0,Persian Gulf
+383,122,27.25,50.25,Persian Gulf
+384,123,27.25,50.5,Persian Gulf
+385,124,27.25,50.75,Persian Gulf
+386,125,27.25,51.0,Persian Gulf
+387,126,27.25,51.25,Persian Gulf
+388,127,27.25,51.5,Persian Gulf
+389,128,27.25,51.75,Persian Gulf
+390,129,27.25,52.0,Persian Gulf
+391,130,27.25,52.25,Persian Gulf
+392,131,27.25,52.5,Persian Gulf
+393,132,27.25,52.75,Persian Gulf
+394,106,27.5,49.5,Persian Gulf
+395,107,27.5,49.75,Persian Gulf
+396,108,27.5,50.0,Persian Gulf
+397,109,27.5,50.25,Persian Gulf
+398,110,27.5,50.5,Persian Gulf
+399,111,27.5,50.75,Persian Gulf
+400,112,27.5,51.0,Persian Gulf
+401,113,27.5,51.25,Persian Gulf
+402,114,27.5,51.5,Persian Gulf
+403,115,27.5,51.75,Persian Gulf
+404,116,27.5,52.0,Persian Gulf
+405,117,27.5,52.25,Persian Gulf
+406,118,27.5,52.5,Persian Gulf
+407,93,27.75,49.0,Persian Gulf
+408,94,27.75,49.25,Persian Gulf
+409,95,27.75,49.5,Persian Gulf
+410,96,27.75,49.75,Persian Gulf
+411,97,27.75,50.0,Persian Gulf
+412,98,27.75,50.25,Persian Gulf
+413,99,27.75,50.5,Persian Gulf
+414,100,27.75,50.75,Persian Gulf
+415,101,27.75,51.0,Persian Gulf
+416,102,27.75,51.25,Persian Gulf
+417,103,27.75,51.5,Persian Gulf
+418,104,27.75,51.75,Persian Gulf
+419,105,27.75,52.0,Persian Gulf
+420,83,28.0,49.0,Persian Gulf
+421,84,28.0,49.25,Persian Gulf
+422,85,28.0,49.5,Persian Gulf
+423,86,28.0,49.75,Persian Gulf
+424,87,28.0,50.0,Persian Gulf
+425,88,28.0,50.25,Persian Gulf
+426,89,28.0,50.5,Persian Gulf
+427,90,28.0,50.75,Persian Gulf
+428,91,28.0,51.0,Persian Gulf
+429,92,28.0,51.25,Persian Gulf
+430,72,28.25,48.75,Persian Gulf
+431,73,28.25,49.0,Persian Gulf
+432,74,28.25,49.25,Persian Gulf
+433,75,28.25,49.5,Persian Gulf
+434,76,28.25,49.75,Persian Gulf
+435,77,28.25,50.0,Persian Gulf
+436,78,28.25,50.25,Persian Gulf
+437,79,28.25,50.5,Persian Gulf
+438,80,28.25,50.75,Persian Gulf
+439,81,28.25,51.0,Persian Gulf
+440,82,28.25,51.25,Persian Gulf
+441,61,28.5,48.5,Persian Gulf
+442,62,28.5,48.75,Persian Gulf
+443,63,28.5,49.0,Persian Gulf
+444,64,28.5,49.25,Persian Gulf
+445,65,28.5,49.5,Persian Gulf
+446,66,28.5,49.75,Persian Gulf
+447,67,28.5,50.0,Persian Gulf
+448,68,28.5,50.25,Persian Gulf
+449,69,28.5,50.5,Persian Gulf
+450,70,28.5,50.75,Persian Gulf
+451,71,28.5,51.0,Persian Gulf
+452,50,28.75,48.5,Persian Gulf
+453,51,28.75,48.75,Persian Gulf
+454,52,28.75,49.0,Persian Gulf
+455,53,28.75,49.25,Persian Gulf
+456,54,28.75,49.5,Persian Gulf
+457,55,28.75,49.75,Persian Gulf
+458,56,28.75,50.0,Persian Gulf
+459,57,28.75,50.25,Persian Gulf
+460,58,28.75,50.5,Persian Gulf
+461,59,28.75,50.75,Persian Gulf
+462,60,28.75,51.0,Persian Gulf
+463,39,29.0,48.25,Persian Gulf
+464,40,29.0,48.5,Persian Gulf
+465,41,29.0,48.75,Persian Gulf
+466,42,29.0,49.0,Persian Gulf
+467,43,29.0,49.25,Persian Gulf
+468,44,29.0,49.5,Persian Gulf
+469,45,29.0,49.75,Persian Gulf
+470,46,29.0,50.0,Persian Gulf
+471,47,29.0,50.25,Persian Gulf
+472,48,29.0,50.5,Persian Gulf
+473,49,29.0,50.75,Persian Gulf
+474,29,29.25,48.25,Persian Gulf
+475,30,29.25,48.5,Persian Gulf
+476,31,29.25,48.75,Persian Gulf
+477,32,29.25,49.0,Persian Gulf
+478,33,29.25,49.25,Persian Gulf
+479,34,29.25,49.5,Persian Gulf
+480,35,29.25,49.75,Persian Gulf
+481,36,29.25,50.0,Persian Gulf
+482,37,29.25,50.25,Persian Gulf
+483,38,29.25,50.5,Persian Gulf
+484,18,29.5,48.0,Persian Gulf
+485,19,29.5,48.25,Persian Gulf
+486,20,29.5,48.5,Persian Gulf
+487,21,29.5,48.75,Persian Gulf
+488,22,29.5,49.0,Persian Gulf
+489,23,29.5,49.25,Persian Gulf
+490,24,29.5,49.5,Persian Gulf
+491,25,29.5,49.75,Persian Gulf
+492,26,29.5,50.0,Persian Gulf
+493,27,29.5,50.25,Persian Gulf
+494,28,29.5,50.5,Persian Gulf
+495,10,29.75,48.5,Persian Gulf
+496,11,29.75,48.75,Persian Gulf
+497,12,29.75,49.0,Persian Gulf
+498,13,29.75,49.25,Persian Gulf
+499,14,29.75,49.5,Persian Gulf
+500,15,29.75,49.75,Persian Gulf
+501,16,29.75,50.0,Persian Gulf
+502,17,29.75,50.25,Persian Gulf
+503,2,30.0,48.0,Persian Gulf
+504,3,30.0,48.25,Persian Gulf
+505,4,30.0,48.75,Persian Gulf
+506,5,30.0,49.0,Persian Gulf
+507,6,30.0,49.25,Persian Gulf
+508,7,30.0,49.5,Persian Gulf
+509,8,30.0,49.75,Persian Gulf
+510,9,30.0,50.0,Persian Gulf
+511,1,30.25,49.0,Persian Gulf

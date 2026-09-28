@@ -1,0 +1,11 @@
+parameter,value,basis
+wind_speed_threshold_ms,9.85,Al-Senafi and Anis (2015); Alrushaid and Al Senafi (2026)
+direction_min_deg,287.0,Al-Senafi and Anis (2015); Alrushaid and Al Senafi (2026)
+direction_max_deg,360.0,Al-Senafi and Anis (2015); Alrushaid and Al Senafi (2026)
+minimum_qualifying_hours_per_day,3,Al-Senafi and Anis (2015)
+minimum_consecutive_shamal_days,2,Al-Senafi and Anis (2015)
+regional_detection_basin,Persian Gulf,Study-specific gridded adaptation
+regional_cell_fraction_threshold,0.5,Adapted from Yu et al. (2016) regional >50% criterion
+onset_window_hours,48,Operational adaptation of 2-day pre-Shamal period in Li et al. (2020)
+decay_window_hours,48,Operational adaptation of 2-day post-Shamal period in Li et al. (2020)
+labels_are_direct_predictors,False,Leakage prevention

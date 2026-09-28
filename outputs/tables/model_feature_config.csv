@@ -1,0 +1,8 @@
+feature_order,feature_name
+1,latitude
+2,longitude
+3,hour
+4,dayofyear
+5,wind_speed_lag_1
+6,wind_speed_lag_24
+7,wind_speed_lag_168

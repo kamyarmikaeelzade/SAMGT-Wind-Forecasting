@@ -1,0 +1,5 @@
+input_group,variables,transformation,fit_data,saved_object
+wind_history,"u10_history,v10_history",StandardScaler,training only,vector_history_scaler.joblib
+future_vector_target,"u10_target,v10_target",StandardScaler,training targets only,vector_target_scaler.joblib
+spatial,"latitude,longitude",StandardScaler,512 study-grid coordinates,vector_spatial_scaler.joblib
+calendar,"hour_sin,hour_cos,doy_sin,doy_cos",none,not applicable,none

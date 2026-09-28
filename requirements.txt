@@ -1,0 +1,12 @@
+numpy
+pandas
+xarray
+netCDF4
+matplotlib
+jupyter
+ipykernel
+regionmask
+geopandas
+shapely
+scikit-learn
+joblib

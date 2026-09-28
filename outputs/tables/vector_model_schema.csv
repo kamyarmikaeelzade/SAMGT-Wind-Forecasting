@@ -1,0 +1,11 @@
+role,group,variable,dimensions
+predictor,static,latitude,study_id
+predictor,static,longitude,study_id
+predictor,calendar,hour_sin,valid_time
+predictor,calendar,hour_cos,valid_time
+predictor,calendar,doy_sin,valid_time
+predictor,calendar,doy_cos,valid_time
+predictor,wind_history,u10_history,"valid_time,study_id,lag"
+predictor,wind_history,v10_history,"valid_time,study_id,lag"
+target,future_vector,u10_target,"valid_time,study_id,horizon"
+target,future_vector,v10_target,"valid_time,study_id,horizon"
